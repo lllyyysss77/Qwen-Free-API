@@ -4,6 +4,8 @@
 
 <span>[ 中文 | <a href="README_EN.md">English</a> ]</span>
 
+> ✨✨ 新项目[https://github.com/xiaoY233/Chat2API](https://github.com/xiaoY233/Chat2API)已经上线，后续统一进行更新维护，此项目不再更新了
+
 本项目由[https://github.com/LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api)修改而来,感谢大佬的贡献!
 重要提示：原项目由于供应链攻击，提交的代码内包含恶意代码，强烈建议不再继续使用。
 
